@@ -22,6 +22,4 @@ Eine kleine Hilfeseite
 ![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/b9880184-2ca3-42f8-9a0c-243d06cd0558)
 
 
-![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/1f4a155c-3200-4848-8e35-f764e7f870d2)
-
 Lutz
