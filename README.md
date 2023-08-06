@@ -6,7 +6,7 @@ Verfügung. Die Differenz zwischen dem Androidgerät und der Realzeit (Delta T) 
 
  ![Programm](https://github.com/DL1RLB/MyRealtime/assets/69315366/aa345883-64ba-4037-b58f-94b249ca79e2)
      
-Java
+# Java
   - MainActivity (Startseite mit Kontextmenü)
   - ConnectionDetector (prüft ob eine Internetverbindung vorhanden ist)
   - ActivityNoInternet (Seite die aufgerufen wird wenn keine Internet vorhanden ist, dann wird die Systemzeit vom handy genutzt)
