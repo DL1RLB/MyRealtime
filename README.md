@@ -1,25 +1,21 @@
 # MyRealtime
-Android Programm zum öffnen der PTB Uhr auf dem Handy oder Tablet. Dazu ist eine Internetverbindung notwendig.
-Das Programm nutzt WebView. Wenn keine Internetverbindung vorhanden ist, nutzt das Programm die Systemzeit
-vom Handy.
+Die ist ein Android Programm (Android Studio) zum öffnen der PTB Uhr auf dem Handy oder Tablet. Dazu ist eine Internetverbindung notwendig.
+Das Programm nutzt dazu WebView. Wenn keine Internetverbindung vorhanden ist, nutzt das Programm die Systemzeit
+vom Gerät. Die Webseite vom Pysikalisch-Technischen Bundesanstalt in Braunschweig stellt eine exakte Uhrzeit zur
+Verfügung. Die Differenz zwischen dem Androidgerät und der Realzeit (Delta T) kann dargestellt werden.
 
-https://github.com/DL1RLB/MyRealtime/blob/main/1%20Uhr.png
+ ![Programm](https://github.com/DL1RLB/MyRealtime/assets/69315366/aa345883-64ba-4037-b58f-94b249ca79e2)
+     
+Java
+  - MainActivity (Startseite mit Kontextmenü)
+  - ConnectionDetector (prüft ob eine Internetverbindung vorhanden ist)
+  - ActivityNoInternet (Seite die aufgerufen wird wenn keine Internet vorhanden ist, dann wird die Systemzeit vom handy genutzt)
+  - ActivityInfo (Seite mit hilfreichen Informationen)
 
-Menü
-
-![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/46c3f734-935e-486d-a7b8-c0cfe0f16fcf)
-
-Wenn keine Internetverbindung vorhanden ist.
-
-![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/e55a5f10-23cd-464a-bb12-630b335af1d1)
-
-Es kommt dieser Hinweis.
-
-![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/01ab9845-eba5-42ab-a16a-68acec4e4300)
-
-Eine kleine Hilfeseite
-
-![grafik](https://github.com/DL1RLB/MyRealtime/assets/69315366/b9880184-2ca3-42f8-9a0c-243d06cd0558)
-
+# Hinweis
+Alle Informationen sind aus dem Internet. Kein Anspruch auf Richtigkeit der Programmierung. 
+Keine Veröffentlichung bei Google Play Store vorgesehen. Das Programm soll nur ein Beispiel der
+Programmierung sein.
+Keine weiteren Funktionen implementiert.
 
 Lutz
