@@ -9,7 +9,7 @@ Verfügung. Die Differenz zwischen dem Androidgerät und der Realzeit (Delta T) 
 # Java
   - MainActivity (Startseite mit Kontextmenü)
   - ConnectionDetector (prüft ob eine Internetverbindung vorhanden ist)
-  - ActivityNoInternet (Seite die aufgerufen wird wenn keine Internet vorhanden ist, dann wird die Systemzeit vom handy genutzt)
+  - ActivityNoInternet (Seite die aufgerufen wird wenn keine Internet vorhanden ist, dann wird die Systemzeit vom Handy genutzt)
   - ActivityInfo (Seite mit hilfreichen Informationen)
 
 # Hinweis
@@ -17,5 +17,9 @@ Alle Informationen sind aus dem Internet. Kein Anspruch auf Richtigkeit der Prog
 Keine Veröffentlichung bei Google Play Store vorgesehen. Das Programm soll nur ein Beispiel der
 Programmierung sein.
 Keine weiteren Funktionen implementiert.
+
+# Quelle
+Die Uhr und weitere Informationen ist über dass Internet zu erreichen.
+https://uhr.ptb.de/ 
 
 Lutz
