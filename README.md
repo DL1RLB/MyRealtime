@@ -28,6 +28,7 @@ Verfügung. Die Differenz zwischen dem Android-Gerät und der Realzeit (Delta T)
 Alle Informationen sind aus dem Internet. Kein Anspruch auf Richtigkeit der Programmierung. 
 Keine Veröffentlichung bei Google Play Store vorgesehen. Das Programm soll nur ein Beispiel der
 Programmierung sein. Keine weiteren Funktionen implementiert.
+Der Code kann in den PDF-Dateien oder HTML-Dateien betrachtet werden.
 
 # Quelle
 Die Uhr und weitere Informationen ist über dass Internet zu erreichen.
